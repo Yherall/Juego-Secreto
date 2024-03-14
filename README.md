@@ -23,3 +23,5 @@ Este proyecto es el resultado de los primeros cursos de logica de programacion c
 - **LinkedIn:** [Yeraldo Alfredo Javier Toledo Gatica](https://www.linkedin.com/in/yeraldotoledo/)
 - **GitHub:** [Yherall](https://github.com/Yherall)
 - **Discord:** Yherall
+
+  <img src="![image](https://github.com/Yherall/Juego-Secreto/assets/128109331/c089acb6-cdb3-42c6-8e3b-ab62dc67a93b)"/>
