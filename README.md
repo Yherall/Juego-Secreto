@@ -24,4 +24,8 @@ Este proyecto es el resultado de los primeros cursos de logica de programacion c
 - **GitHub:** [Yherall](https://github.com/Yherall)
 - **Discord:** Yherall
 
+<div>
   <img src="![image](https://github.com/Yherall/Juego-Secreto/assets/128109331/c089acb6-cdb3-42c6-8e3b-ab62dc67a93b)"/>
+</div>
+  
+  
