@@ -27,5 +27,3 @@ Este proyecto es el resultado de los primeros cursos de logica de programacion c
 <div>
   <img src="https://github.com/Yherall/Juego-Secreto/blob/main/img/image.png"/>
 </div>
-  
-  
